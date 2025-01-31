@@ -1,4 +1,4 @@
-Here are presented measurements data, collected for the latitude band of 20-30◦N in the Atlantic and Pacific Oceans and 50-60◦S of the Southern Ocean, which were used in the simulation process in EuLag model or verification of its modeling results. 
+Here are presented measurements data collected for the latitude band of 20-30◦N in the Atlantic and Pacific Oceans and 50-60◦S of the Southern Ocean, which were used in the simulation process in EuLag model or verification of its modeling results. 
 
 Following profiles are presented here:
 
